@@ -1,0 +1,5 @@
+{
+    "name": "dwd_pollen",
+    "render_readme": true,
+    "domains": ["sensor"]
+}
